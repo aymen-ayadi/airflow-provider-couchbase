@@ -2,8 +2,8 @@ Package ``apache-airflow-providers-couchbase``
 
 Release: ``1.0.0``
 
-# [couchbase](https://couchbase.com)
 
+`Couchbase <https://www.couchbase.com>`__
 
 
 Provider package
@@ -25,14 +25,17 @@ The package supports the following python versions: ``>=3.7``
 Requirements
 ------------
 
-| PIP package    | Version required |
-|----------------|------------------|
-| apache-airflow | >=2.3.0          |
-| couchbase      | >=4.0.0          |
+==================  ==================
+PIP package         Version required
+==================  ==================
+``apache-airflow``  ``>=2.3.0``
+``couchbase``       ``>=4.0.0``
+==================  ==================
 
 Changelog
 ---------
 
 ``1.0.0``
+
 
 Initial version of the provider.
