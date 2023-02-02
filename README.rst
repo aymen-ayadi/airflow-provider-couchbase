@@ -1,4 +1,4 @@
-Package ``apache-airflow-providers-couchbase``
+Package ``airflow-provider-couchbase``
 
 Release: ``1.0.0``
 
@@ -18,7 +18,7 @@ Installation
 
 You can install this package on top of an existing Airflow 2 installation (see ``Requirements`` below
 for the minimum Airflow version supported) via
-``pip install apache-airflow-providers-couchbase``
+``pip install airflow-provider-couchbase``
 
 The package supports the following python versions: ``>=3.7``
 
